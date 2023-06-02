@@ -12,13 +12,13 @@ const Blog = () => {
       </div>
       <div className='gpt3__blog-container'>
         <div className='gpt3__blog-container__groupA'>
-          <Article src={blog01} date={'23 sept 2022'} title={'jdsfh dhfjhd fjhsdjfh sdjafhjdshfsdh ffhhdhghds fvsdfbvjf bhhfghfg hfjghdfjg df gjhdf gdfh '}/>
+          <Article src={blog01} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
         </div>
         <div className='gpt3__blog-container__groupB'>
-          <Article src={blog02} date={'23 sept 2022'} title={'jdsfh dhfj fjhsh dja ghds bvjf fg yjg df hdf gdfh '}/>
-          <Article src={blog03} date={'23 sept 2022'} title={'jdsfh dhfj fjhsh dja ghds bvjf fg yjg df hdf gdfh '}/>
-          <Article src={blog04} date={'23 sept 2022'} title={'jdsfh dhfj fjhsh dja ghds bvjf fg yjg df hdf gdfh '}/>
-          <Article src={blog05} date={'23 sept 2022'} title={'jdsfh dhfj fjhsh dja ghds bvjf fg yjg df hdf gdfh '}/>
+        <Article src={blog02} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
+        <Article src={blog03} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
+        <Article src={blog04} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
+        <Article src={blog05} date="Sep 26, 2021" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
         </div>
       </div>
     </div>
